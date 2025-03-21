@@ -1,4 +1,5 @@
 # Fantasy Ski Jump
+**Note**: This project is currently under development.
 
 This is a student project that implements a fantasy ski jumping game. The game is built using the LAMP stack (Linux, Apache, MySQL, PHP) and leverages Python for scraping ski jumping competition data.
 
